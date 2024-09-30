@@ -1,0 +1,7 @@
+idle paid
+idle
+coin idle paid
+coffee paid idle
+
+X paid
+idle and paid
